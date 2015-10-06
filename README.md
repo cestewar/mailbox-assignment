@@ -1,4 +1,4 @@
-# Dropbox
+# Mailbox
 
 Mailbox week 3 assignment for Cameron Stewart's Codepath.
 
